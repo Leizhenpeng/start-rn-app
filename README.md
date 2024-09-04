@@ -13,7 +13,15 @@
 - [x] 测试用例
 - [ ] 常用hook使用
 
+# quick start
 
+```
+//rename project
+$ npx react-native-rename "RN App" -b "cn.forkway.rn-app"
+//install
+yarn install
+cd ios
+npx pod-install
 
 [更新日志](./src/docs/update-log.md)
 
