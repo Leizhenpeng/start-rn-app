@@ -21,7 +21,7 @@ $ npx react-native-rename "RN App" -b "cn.forkway.rn-app"
 //install
 yarn install
 cd ios
-npx pod-install
+pod install
 
 [更新日志](./src/docs/update-log.md)
 
